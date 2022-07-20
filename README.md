@@ -13,6 +13,6 @@ git add --all  && git commit -m "" && git push origin main <br>
 ssh-keygen -t rsa -C "mail вашего гитхаба"<br>
 
 
-#ссылки
+# ссылки
 <h4>https://github.com/mz-automation/libiec61850<br>
 https://libiec61850.com/documentation/building-the-library/</h4>
